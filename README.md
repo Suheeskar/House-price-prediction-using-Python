@@ -18,11 +18,9 @@ Chennai House Price Prediction is a popular dataset on Kaggle that contains info
 
 7) Building a various regression models like ("lm","rf","svmRadial","xgbTree","xgbLinear")
 
-8) Ensembling the Models
+8) Making Predictions Using the Models
 
-9) Making Predictions Using the Models
-
-10) Model Evaluation using RMSE
+9) Model Evaluation using RMSE
 
 **Conclusion**
 
