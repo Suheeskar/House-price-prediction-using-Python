@@ -30,5 +30,5 @@ out of all RMSE values, XGBoost method gives the less error and High R squared v
 | ----------- | ----------- | ----------- |
 | SVM | 0.20 | 0.90 |
 | RF  | 0.16 | 0.93 |
-| XGBT | 0.19 | 0.91 |
+| XGBT | 0.12 | 0.96 |
 | KNN | 0.25| 0.84 
